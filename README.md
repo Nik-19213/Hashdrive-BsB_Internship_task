@@ -48,9 +48,9 @@ Step3:- upload a photo and click the verify button.
 # demo Deployed Canisters
 URLs:
   Frontend canister via browser:
-    Hashdrive_frontend: https://nq4km-riaaa-aaaam-aehma-cai.icp0.io/
+    Hashdrive_frontend: https://7oq3y-haaaa-aaaaa-qal6a-cai.icp0.io/
   Backend canister via Candid interface:
-    Hashdrive_backend: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=m5soc-6aaaa-aaaam-aehlq-cai
+    Hashdrive_backend: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=73xkv-giaaa-aaaaa-qal5q-cai
 ## Resouces & Ideas
 * [Environment Setup Guide](https://docs.google.com/document/d/1MhzCf3wdxwpn2uAcdQmS7SEbljEgNFYvh3ADyZjb84o/)
 * [RoadMap](https://docs.google.com/document/d/1KHmEFO6E9QjQBNEbDAV-hEF7iu5hPSUC9PZMSLZYPHE)
